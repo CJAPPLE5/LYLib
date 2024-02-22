@@ -1,0 +1,4 @@
+build/
+*.egg-info/
+LYLib/__pycache__
+*/*/__pycache__
